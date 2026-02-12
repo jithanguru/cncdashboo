@@ -1,5 +1,5 @@
 .machine-button{
-    background-color:rgb(8, 117, 139);
+    background-color:rgb(147, 51, 17);
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
@@ -20,29 +20,27 @@
     display: flex;
     justify-content: space-evenly ;
     padding: 20px;
-    background-color: rgba(37, 35, 35, 0.603);
+    /* background-color: rgba(37, 35, 35, 0.603); */
     padding: 10px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 
 }
 
-p span {
+/* p span {
     display: block;
-    padding: 10px;
-}
+    padding: 5px;
+} */
 
 p{
-   
+   position: relative;
     border: 1px solid rgb(234, 227, 227);
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 20px 20px;
     border-radius: 10px;
 }
 
 .dashboard h2{
   color: antiquewhite;
 }
+
 
 

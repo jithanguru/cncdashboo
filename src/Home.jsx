@@ -9,6 +9,7 @@ export default function Home() {
 
    const [selectedMachineLive, setSelectedMachineLive] = useState(machineLive[0]);
 
+   
   return (
     <div className="container">
       {/* Dashboard */}
@@ -16,12 +17,12 @@ export default function Home() {
         <h2 className="dashboard-label">Dashboard</h2>
         <div className="dashboard-table">
         
-          <div>
+          <div >
                <p><strong>Machine:</strong> <span>{selectedMachine.name}</span></p>
                <p><strong>Status:</strong><span> {selectedMachine.status}</span></p>
                <p><strong>Temperature:</strong> <span>{selectedMachine.temperature}</span></p>
            </div>
-           <div>
+           <div >
                 <p><strong>Load:</strong> <span>{selectedMachine.load}</span></p>
                 <p><strong>Start time:</strong><span> {selectedMachine.startTime}</span></p>
                 <p><strong>End time :</strong><span> {selectedMachine.endTime}</span></p>
