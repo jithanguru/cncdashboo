@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cncdashboo/static/css/main.7d00a6fd.css",
+    "main.css": "/cncdashboo/static/css/main.e2d092a7.css",
     "main.js": "/cncdashboo/static/js/main.2795e551.js",
     "static/js/453.fa7bd0c0.chunk.js": "/cncdashboo/static/js/453.fa7bd0c0.chunk.js",
     "index.html": "/cncdashboo/index.html",
-    "main.7d00a6fd.css.map": "/cncdashboo/static/css/main.7d00a6fd.css.map",
+    "main.e2d092a7.css.map": "/cncdashboo/static/css/main.e2d092a7.css.map",
     "main.2795e551.js.map": "/cncdashboo/static/js/main.2795e551.js.map",
     "453.fa7bd0c0.chunk.js.map": "/cncdashboo/static/js/453.fa7bd0c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d00a6fd.css",
+    "static/css/main.e2d092a7.css",
     "static/js/main.2795e551.js"
   ]
 }
